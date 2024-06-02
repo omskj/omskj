@@ -1,5 +1,7 @@
 Hi I'm @omskj
 - JAVA, Python, SQL
+- Mobile Applicationdevelopement, Webengineering, Databaseprograming
+
 
 <!---
 omskj/omskj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
