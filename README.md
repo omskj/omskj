@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @omskj
-- 🌱 I’m currently learning Java
+Hi I'm @omskj
+- JAVA, Python, SQL
 
 <!---
 omskj/omskj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
