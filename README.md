@@ -1,6 +1,6 @@
 Hi I'm @omskj
 - JAVA, Python, SQL
-- Mobile Applicationdevelopement, Webengineering, Databaseprograming
+- Mobile Applicationdevelopement (IOS/Android), Webengineering, Databaseprograming
 
 
 <!---
